@@ -1,0 +1,1 @@
+DESCRIBE warehouse.1
